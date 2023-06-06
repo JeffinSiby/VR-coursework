@@ -9,12 +9,13 @@ Implementation for 3rd year Virtual and Augmented Reality coursework
 
 **Overall** - 97%
 
+Please see the PDF document for more information on what was required.
 
 Output render with 3 headsets:
 
 ![GIF showing the render of 3 headsets](./gifs/3_headsets_recording.gif)
 
-Output render with 5 headsets to show collision handing in all axes (yawing at twice the speed because why not):
+Output render with 5 headsets to show collision handing in all axes (rotating at twice the speed because why not):
 
 ![GIF showing the render of 5 headsets](./gifs/5_headsets_recording.gif)
 
